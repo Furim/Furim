@@ -4,7 +4,7 @@
    
 ![New Piskel(10)](https://user-images.githubusercontent.com/30505692/117574783-06033080-b0df-11eb-9c9f-a3d515a2f255.png)
 
-Hello I'm [Furim](http://someurl), thanks for hanging out on my profile the project im currently working on 🌿YerbaOS and maybe something other soon. 
+Hello I'm [Furim](https://github.com/Furim/Furim/files/6484403/pubkey.txt), thanks for hanging out on my profile the project im currently working on 🌿YerbaOS and maybe something other soon. 
 
 <details>
 <summary>Languages </summary>
@@ -43,6 +43,5 @@ Hello I'm [Furim](http://someurl), thanks for hanging out on my profile the proj
 
 <br>
 </details>
-
 
 
