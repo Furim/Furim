@@ -44,4 +44,6 @@ Hello I'm [Furim](https://github.com/Furim/Furim/files/6484403/pubkey.txt), than
 <br>
 </details>
 
+Visitor Count:
 
+![Visitor Count](https://profile-counter.glitch.me/{Furim}/count.svg)
